@@ -1,20 +1,29 @@
-Voici une version **plus courte et propre** du README 👍
+TEST
 ---
+
 ````markdown id="readme_short"
 # ⛑️ Casque Sécurité IoT (MQTT + Python)
+
 Projet de simulation d’un casque intelligent utilisant :
 - MQTT (Mosquitto)
 - Python (paho-mqtt)
 - Dashboard temps réel (Dash)
+
 ---
+
 # ⚙️ Installation
+
 ## Installer les dépendances
 ```bash
 pip install paho-mqtt dash plotly
 ````
+
 ## Installer Mosquitto
+
 [https://mosquitto.org/download/](https://mosquitto.org/download/)
+
 ---
+
 # 🚀 Lancement du projet
 
 ## 1. Lancer le broker MQTT
@@ -72,21 +81,13 @@ Si erreur de connexion MQTT :
 * Détection chute
 * Alertes temps réel
 * Dashboard web
+
 ---
+
 # 🚀 Auteur
 
 Projet IoT — MQTT + Python
 
 ```
-
----
-
-# 👍 Si tu veux encore améliorer
-Je peux te faire :
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-
 Dis-moi 👍
 ```
